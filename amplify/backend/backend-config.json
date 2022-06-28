@@ -1,0 +1,9 @@
+{
+  "function": {
+    "crawling0373ff82": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
